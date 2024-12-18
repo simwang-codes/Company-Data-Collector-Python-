@@ -1,6 +1,3 @@
-
-### Example of a well-formatted README
-
 ```markdown
 # Company Data Collector (Python)
 
