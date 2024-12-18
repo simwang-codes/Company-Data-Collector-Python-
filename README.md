@@ -2,7 +2,9 @@
 # Company Data Collector (Python)
 
 ## Overview
-This project showcases a Python-based solution to collect and process company data. It retrieves a company's official website URL and headquarters address using Google Search and SerpApi. The processed data is saved in an Excel file for further analysis.
+This project showcases a Python-based solution to collect and process company data.
+It retrieves a company's official website URL and headquarters address using Google Search and SerpApi.
+The processed data is saved in an Excel file for further analysis.
 
 ## Features
 - **Automated Data Collection:** Fetches URLs and HQ addresses directly from Google and Wikipedia using SerpApi.  
