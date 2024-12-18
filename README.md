@@ -1,5 +1,5 @@
 # Company Data Collector
-  If you have a list of company names in an Excel file and you want to get these companies' official website URLs and their HQ addresses, the Company Data Collector can help you complete this task effectively.
+  If you have a list of company names in an Excel file and you want to get these companies' official website URLs and their HQ addresses, the Company Data Collector I built can help you complete this task effectively.
 
   The company_data_collector_with_api.py script helps you fetch a company's official website URL and its HQ address by utilizing an API and the Google Search engine, and inputs the fetched results back into your Excel file. If no HQ address is found, the company's address will be retrieved as an alternative.
 
