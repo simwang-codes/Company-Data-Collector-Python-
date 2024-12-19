@@ -12,7 +12,7 @@
   
   2. Create a list of company names in Excel (or you can download the test sample "Account Match.xlsx" from the Excel Files folder).
   
-  3. Download "company_data_collector_with_api" from the Python Scripts folder. 'cd' to the directory that contains the script, type "python3 collect_company_data_with_api", and run the script.
+  3. Download "company_data_collector_with_api.py" from the Python Scripts folder. 'cd' to the directory that contains the script, type "python3 company_data_collector_with_api.py", and run the script.
   
   The result you get will look similar to the processed test sample named "Account Match(Processed).xlsx" in the Excel Files folder.
 
