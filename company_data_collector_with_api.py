@@ -1,3 +1,6 @@
+# This is a Python script that automates reading company names from an Excel file, 
+# fetching their official website URLs, and headquarters addresses, and updating the file with the results.
+
 import serpapi
 import os
 from openpyxl import load_workbook
